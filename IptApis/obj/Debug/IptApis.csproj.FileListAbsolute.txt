@@ -1,0 +1,210 @@
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\IptApis.dll.config
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\IptApis.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\IptApis.pdb
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\csc.exe
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\csc.exe.config
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\csc.rsp
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\csi.exe
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\csi.exe.config
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\csi.rsp
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.AppContext.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.Console.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.IO.Compression.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.Security.Claims.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.ValueTuple.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\vbc.exe
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\vbc.exe.config
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\vbc.rsp
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\Newtonsoft.Json.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\System.Net.Http.Formatting.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\System.Web.Http.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\System.Web.Http.WebHost.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\Newtonsoft.Json.xml
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\System.Net.Http.Formatting.xml
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\System.Web.Http.xml
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\System.Web.Http.WebHost.xml
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmed\source\repos\IptApis\IptApis\obj\Debug\IptApis.csprojAssemblyReference.cache
+C:\Users\ahmed\source\repos\IptApis\IptApis\obj\Debug\IptApis.csproj.CopyComplete
+C:\Users\ahmed\source\repos\IptApis\IptApis\obj\Debug\IptApis.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\obj\Debug\IptApis.pdb
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\Dapper.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\QueryBuilder.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\SqlKata.Execution.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\System.Transactions.Workflows.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\Dapper.xml
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\System.Web.Cors.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\System.Web.Http.Cors.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\System.Web.Http.Cors.xml
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\Swashbuckle.Core.dll
+C:\Users\ahmed\source\repos\IptApis\IptApis\bin\WebActivatorEx.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\IptApis.dll.config
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\IptApis.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\IptApis.pdb
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\Dapper.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\Microsoft.Web.Infrastructure.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\Newtonsoft.Json.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\QueryBuilder.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\SqlKata.Execution.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\Swashbuckle.Core.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\System.Net.Http.Formatting.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\System.Transactions.Workflows.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\System.Web.Cors.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\System.Web.Http.Cors.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\System.Web.Http.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\System.Web.Http.WebHost.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\WebActivatorEx.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\Dapper.xml
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\Newtonsoft.Json.xml
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\System.Net.Http.Formatting.xml
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\System.Web.Http.xml
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\System.Web.Http.Cors.xml
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\System.Web.Http.WebHost.xml
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\obj\Debug\IptApis.csprojAssemblyReference.cache
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\obj\Debug\IptApis.csproj.CoreCompileInputs.cache
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\obj\Debug\IptApis.csproj.CopyComplete
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\obj\Debug\IptApis.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\obj\Debug\IptApis.pdb
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\csc.exe
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\csc.exe.config
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\csc.rsp
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\csi.exe
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\csi.exe.config
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\csi.rsp
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.AppContext.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.Collections.Immutable.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.Console.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.IO.Compression.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.IO.FileSystem.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.IO.Pipes.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.Reflection.Metadata.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.Security.AccessControl.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.Security.Claims.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.ValueTuple.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.Xml.XPath.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\vbc.exe
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\vbc.exe.config
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\vbc.rsp
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\VBCSCompiler.exe
+E:\Softwares\IPTApis-master (3)\IPTApis-master\IptApis\bin\roslyn\VBCSCompiler.exe.config
+E:\ERPApis\IptApis\bin\IptApis.dll.config
+E:\ERPApis\IptApis\bin\IptApis.dll
+E:\ERPApis\IptApis\bin\IptApis.pdb
+E:\ERPApis\IptApis\bin\roslyn\csc.exe
+E:\ERPApis\IptApis\bin\roslyn\csc.exe.config
+E:\ERPApis\IptApis\bin\roslyn\csc.rsp
+E:\ERPApis\IptApis\bin\roslyn\csi.exe
+E:\ERPApis\IptApis\bin\roslyn\csi.exe.config
+E:\ERPApis\IptApis\bin\roslyn\csi.rsp
+E:\ERPApis\IptApis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ERPApis\IptApis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ERPApis\IptApis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ERPApis\IptApis\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ERPApis\IptApis\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ERPApis\IptApis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ERPApis\IptApis\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ERPApis\IptApis\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ERPApis\IptApis\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ERPApis\IptApis\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ERPApis\IptApis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ERPApis\IptApis\bin\roslyn\System.AppContext.dll
+E:\ERPApis\IptApis\bin\roslyn\System.Collections.Immutable.dll
+E:\ERPApis\IptApis\bin\roslyn\System.Console.dll
+E:\ERPApis\IptApis\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ERPApis\IptApis\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ERPApis\IptApis\bin\roslyn\System.IO.Compression.dll
+E:\ERPApis\IptApis\bin\roslyn\System.IO.FileSystem.dll
+E:\ERPApis\IptApis\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ERPApis\IptApis\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\ERPApis\IptApis\bin\roslyn\System.IO.Pipes.dll
+E:\ERPApis\IptApis\bin\roslyn\System.Reflection.Metadata.dll
+E:\ERPApis\IptApis\bin\roslyn\System.Security.AccessControl.dll
+E:\ERPApis\IptApis\bin\roslyn\System.Security.Claims.dll
+E:\ERPApis\IptApis\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ERPApis\IptApis\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ERPApis\IptApis\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ERPApis\IptApis\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ERPApis\IptApis\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ERPApis\IptApis\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ERPApis\IptApis\bin\roslyn\System.ValueTuple.dll
+E:\ERPApis\IptApis\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ERPApis\IptApis\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ERPApis\IptApis\bin\roslyn\System.Xml.XPath.dll
+E:\ERPApis\IptApis\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ERPApis\IptApis\bin\roslyn\vbc.exe
+E:\ERPApis\IptApis\bin\roslyn\vbc.exe.config
+E:\ERPApis\IptApis\bin\roslyn\vbc.rsp
+E:\ERPApis\IptApis\bin\roslyn\VBCSCompiler.exe
+E:\ERPApis\IptApis\bin\roslyn\VBCSCompiler.exe.config
+E:\ERPApis\IptApis\bin\Dapper.xml
+E:\ERPApis\IptApis\bin\Newtonsoft.Json.xml
+E:\ERPApis\IptApis\bin\System.Net.Http.Formatting.xml
+E:\ERPApis\IptApis\bin\System.Web.Http.xml
+E:\ERPApis\IptApis\bin\System.Web.Http.Cors.xml
+E:\ERPApis\IptApis\bin\System.Web.Http.WebHost.xml
+E:\ERPApis\IptApis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ERPApis\IptApis\obj\Debug\IptApis.csprojAssemblyReference.cache
+E:\ERPApis\IptApis\obj\Debug\IptApis.csproj.CoreCompileInputs.cache
+E:\ERPApis\IptApis\obj\Debug\IptApis.csproj.CopyComplete
+E:\ERPApis\IptApis\obj\Debug\IptApis.dll
+E:\ERPApis\IptApis\obj\Debug\IptApis.pdb
